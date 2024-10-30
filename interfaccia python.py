@@ -3,8 +3,8 @@ import boto3
 import json
 
 
-user_avatar = r""C:\Users\alerii\Desktop\chat_bot.png""
-ai_avatar   = r""C:\Users\alerii\Desktop\chat_bot.png""
+user_avatar = "chat_bot.png"
+ai_avatar   = "chat_bot.png"
 
 temperature = 0.1
 max_token   = 2048
